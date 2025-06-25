@@ -50,26 +50,8 @@ Notes
 
 Preview/outpt:
 
-![Image](https://github.com/user-attachments/assets/84642c14-6aad-4d53-8dcf-af71d16df7fe)
-
-![Image](https://github.com/user-attachments/assets/197136c0-1a7d-4c7a-9ebc-065efd1998bd)
-
-![Image](https://github.com/user-attachments/assets/0a12808b-7a11-4cdc-b9ab-a34d753b2ac1)
-
-![Image](https://github.com/user-attachments/assets/288a46a6-688a-4f3c-a3f9-38e56065a695)
-
-![Image](https://github.com/user-attachments/assets/49d48bd9-209a-4e23-9382-10d5d35875bb)
-
-![Image](https://github.com/user-attachments/assets/622fed39-9702-45e1-858a-670496a39730)
-
-![Image](https://github.com/user-attachments/assets/865be310-9829-4e6b-8abc-ee90da330282)
-
-![Image](https://github.com/user-attachments/assets/f4b540b1-e449-47fc-b564-3c487d70f903)
-
-![Image](https://github.com/user-attachments/assets/d814976d-b8db-4cd0-a9fa-53e580430125)
+![Image](https://github.com/user-attachments/assets/783ba665-1060-431d-8f01-15628a5b3a38)
 
 License
 MIT License
-OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/5d940dd6-d58f-4391-86a7-78274fc51f70)

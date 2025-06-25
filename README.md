@@ -23,7 +23,10 @@ A simple web-based chocolate catalog application with user registration and logi
 ├── users.txt # Plain text file storing registered users
 ├── profile.png # (Optional) Profile icon for login page
 ├── [images] # Chocolate product images (dairy.jpg, cele.webp, etc.)
-Output:(APP PREVIEW)
+
+
+Output:
+(APP PREVIEW)
 ![Image](https://github.com/user-attachments/assets/fecf1109-aadd-482a-b741-a093b6e8afe8)
 ![Image](https://github.com/user-attachments/assets/7291bfa0-788d-49f0-adfc-e22b085da7b7)
 

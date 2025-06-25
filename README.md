@@ -54,4 +54,5 @@ Preview/outpt:
 
 License
 MIT License
-
+output:
+![Image](https://github.com/user-attachments/assets/a6a6cfda-2be2-4ba9-b6f6-94f1f997c20a)

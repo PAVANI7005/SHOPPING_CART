@@ -49,3 +49,5 @@ Notes
   =>PHP must be enabled for the backend registration and login functionality to work.
 License
 MIT License
+output:
+![Image](https://github.com/user-attachments/assets/f64a086c-b3a7-4635-bdca-af29743405fc)

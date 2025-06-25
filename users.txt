@@ -1,0 +1,1 @@
+buddy,buddy@gmail.com,$2y$10$abdhfbdhfsdjfjsdf (hashed password)

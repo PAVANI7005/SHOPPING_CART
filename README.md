@@ -34,12 +34,11 @@ Output:(APP PREVIEW)
 ![Image](https://github.com/user-attachments/assets/ac33b45a-87b0-41b5-86cd-e664007a7e6a)
 
 ![Image](https://github.com/user-attachments/assets/957b52ea-c4fb-432a-923e-2beb675eaef2)
+![Image](https://github.com/user-attachments/assets/16c2e801-c3f3-47a3-bd10-c3ec9caa74d0)
 
-![Image](https://github.com/user-attachments/assets/59a98fb6-6a75-42f2-8541-12c8390070de)
+![Image](https://github.com/user-attachments/assets/c613dda9-c9aa-4fb9-91d0-b66b714e846f)
 
-![Image](https://github.com/user-attachments/assets/667b8917-ae10-4452-b3c5-da4776d26fe4)
-
-![Image](https://github.com/user-attachments/assets/06a87f82-aacd-423b-8b1e-b57dd37ddb04)
+![Image](https://github.com/user-attachments/assets/bd73fc91-c09c-4160-9718-84f5ce8aee1a)
 
 ## How to Use
 

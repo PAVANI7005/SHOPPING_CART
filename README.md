@@ -47,12 +47,5 @@ Notes
   =>The cart is stored in localStorage, meaning it's client-side only and resets per browser/device.
 
   =>PHP must be enabled for the backend registration and login functionality to work.
-
-Preview/outpt:
-
-![Image](https://github.com/user-attachments/assets/783ba665-1060-431d-8f01-15628a5b3a38)
-
 License
 MIT License
-output:
-![Image](https://github.com/user-attachments/assets/2abd9131-c639-4b9d-bb92-79e326b19956)
